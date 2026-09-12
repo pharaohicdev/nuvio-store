@@ -1,0 +1,19 @@
+{
+  "name": "Nuvio Auto-Update Repo",
+  "identifier": "com.custom.nuvio.repo",
+  "apps": [
+    {
+      "name": "Nuvio",
+      "bundleIdentifier": "com.nuvio.app",
+      "developerName": "NuvioMedia",
+      "localizedDescription": "A free, open-source media app for your phone, your desktop, and the TV you already own.",
+      "iconURL": "https://nuvio.tv/assets/nuvio-app-logo-wordmark.webp",
+      "tintColor": "#000000",
+      "version": "0.4.17",
+      "versionDate": "2026-09-12T01:48:34Z",
+      "versionDescription": "- 2d03b258 fix(plugins): restore iOS runtime compilation @tapframe  \n- d23b3c04 fix(player): disable binge group reuse by default @tapframe  \n- [perf(plugins): pause search during playback and match TV runtime (#1917)](https://github.com/NuvioMedia/NuvioMobile/pull/1917) @halibiram  \n- 1854dfc3 fix(sync): prevent automatic pulls from restoring deleted data @tapframe  \n",
+      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.4.17/nuvio-0.4.17-full-release.ipa",
+      "size": 51022041
+    }
+  ]
+}
