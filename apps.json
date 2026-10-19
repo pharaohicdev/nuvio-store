@@ -9,11 +9,11 @@
       "localizedDescription": "A free, open-source media app for your phone, your desktop, and the TV you already own.",
       "iconURL": "https://nuvio.tv/assets/nuvio-app-logo-wordmark.webp",
       "tintColor": "#000000",
-      "version": "0.6.1-beta",
-      "versionDate": "2026-10-16T14:44:49Z",
-      "versionDescription": "- f352f2b2 fix(party): let only the host change what's playing @tapframe  \r\n",
-      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.1-beta/nuvio-0.6.1-full-release.ipa",
-      "size": 68517984
+      "version": "0.6.2-beta",
+      "versionDate": "2026-10-18T23:13:01Z",
+      "versionDescription": "- b253a7c5 feat(party): add chat to watch parties @tapframe  \r\n- [Fix escaped apostrophes and missing Italian translations (#2312)](https://github.com/NuvioMedia/NuvioMobile/pull/2312) @WhiteGiso  \r\n- [fix(ios): keep Watch Party in sync and apply party rules during PiP (#2308)](https://github.com/NuvioMedia/NuvioMobile/pull/2308) @WhiteGiso  \r\n- [i18n(el): finish the Greek locale (party, media servers, MDBList, Auto Sync, season count) (#2292)](https://github.com/NuvioMedia/NuvioMobile/pull/2292) @nosvasedis  \r\n- [Filename and infoHash matching for binge group, prefetch fixes (#2278)](https://github.com/NuvioMedia/NuvioMobile/pull/2278) @skoruppa  \r\n",
+      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.2-beta/nuvio-0.6.2-full-release.ipa",
+      "size": 68666779
     }
   ]
 }
